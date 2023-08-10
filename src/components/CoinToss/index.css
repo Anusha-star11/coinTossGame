@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.cointoss-page {
+  background-color: #e2a139;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.inner-division {
+  background-color: white;
+  height: 90vh;
+  width: 35vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.heading {
+  color: #a35200;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.para {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 10px;
+}
+.image {
+  height: 80px;
+  width: 80px;
+}
+.buttonEle {
+  background-color: #f9d423;
+  border-radius: 10px;
+}
+.results {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.parag {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+  margin: 5px;
+}
